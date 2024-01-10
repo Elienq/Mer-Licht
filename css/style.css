@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "pacifico";
+  src: url("../font-family/Pacifico-Regular.ttf") format("truetype");
+  }
+  /*font class*/
+header{
+  background-color: rgb(255, 255, 255);
+  color: rgb(44, 128, 167);
+  font-family: "pacifico", sans-serif;
+}
+.air7{
+  padding: 7px;
+}
+.air15{
+  padding: 15px;
+}
+.air3{
+  padding: 3px;
+}
+main{
+  background-color: rgb(44, 128, 167);
+  font-family: "pacifico", sans-serif;
+  color: rgb(255, 255, 255);
+}
+.si{
+  color: rgb(255, 255, 255);
+}
